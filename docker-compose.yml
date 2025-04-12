@@ -1,8 +1,0 @@
-version: "3.8"
-
-services:
-  webapp:
-    image: react_e-commerce_app:v1
-    container_name: E-commerce_react-web-app
-    ports:
-    - "80:80"
